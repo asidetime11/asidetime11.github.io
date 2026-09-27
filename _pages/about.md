@@ -27,9 +27,6 @@ I'm currently a Master's degree student (from fall, 2026) at the [School of Comp
 # 📝 Publications 
 
 
-# 🎖 Honors and Awards
-
-
 # 📖 Educations
 
 - 2022–2026: School of Computer Science, Shanghai Jiao Tong University
