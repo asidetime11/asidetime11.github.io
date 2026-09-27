@@ -32,5 +32,5 @@ I'm currently a Master's degree student (from fall, 2026) at the [School of Comp
 
 # 📖 Educations
 
-- 2022–2026：上海交通大学，计算机学院
-- 2026–至今：复旦大学，计算机学院
+- 2022–2026: School of Computer Science, Shanghai Jiao Tong University
+- 2026–Present: School of Computer Science, Fudan University
